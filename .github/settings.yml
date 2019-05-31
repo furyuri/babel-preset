@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: babel-preset
+  description: Shareable babel preset for the organization
+  homepage: 'https://npm.im/@dsmjs/babel-preset'
+  private: false
