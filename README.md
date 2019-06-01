@@ -26,6 +26,7 @@ $ npm install @dsmjs/babel-preset --save-dev
 [![Commitizen friendly][commitizen-badge]][commitizen-link]
 [![semantic-release][semantic-release-badge]][semantic-release-link]
 [![PRs Welcome][PRs-badge]][PRs-link]
+[![Greenkeeper badge](https://badges.greenkeeper.io/dsmjs/babel-preset.svg)](https://greenkeeper.io/)
 
 ### Dependencies
 
