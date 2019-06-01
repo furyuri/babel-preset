@@ -55,6 +55,6 @@
     "travis-lint": "^1.0.0"
   },
   "dependencies": {
-    "@form8ion/babel-preset": "1.4.0"
+    "@form8ion/babel-preset": "1.4.1"
   }
 }
