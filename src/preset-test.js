@@ -16,10 +16,11 @@ suite('babel preset', () => {
   teardown(() => sandbox.restore());
 
   test('that the form8ion preset is extended', () => {
+    const context = any.simpleObject();
     const options = any.simpleObject();
     const config = any.simpleObject();
-    form8ionPreset.default.withArgs(options).returns(config);
+    form8ionPreset.default.withArgs(context, options).returns(config);
 
-    assert.equal(buildConfig(options), config);
+    assert.equal(buildConfig(context, options), config);
   });
 });
