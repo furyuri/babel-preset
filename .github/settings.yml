@@ -4,3 +4,4 @@ repository:
   description: Shareable babel preset for the organization
   homepage: 'https://npm.im/@dsmjs/babel-preset'
   private: false
+  topics: hacktoberfest
